@@ -1,0 +1,38 @@
+{
+  "name": "real-state-scss",
+  "version": "1.0.0",
+  "description": "Inmobiliaria de lujo en SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topgirl2410/Real-State-SCSS.git"
+  },
+  "author": "Maria Leonor Pinto Sabater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topgirl2410/Real-State-SCSS/issues"
+  },
+  "homepage": "https://github.com/topgirl2410/Real-State-SCSS#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "cssnano": "^5.1.4",
+    "gulp-avif": "^1.0.1",
+    "gulp-imagemin": "^7.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-webp": "^4.0.1",
+    "postcss": "^8.4.12",
+    "sass": "^1.49.9"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%"
+  ]
+}
