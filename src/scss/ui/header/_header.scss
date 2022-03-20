@@ -39,7 +39,6 @@
         color: v.$blanco;
         text-align: center;
         @include m.tablet {
-
             text-align: left;
         }
     }
@@ -67,8 +66,8 @@
             border-bottom-left-radius: 4rem;
         }
 
-        @include m.desktopXL  {
-           max-width: 60rem;
+        @include m.desktopXL {
+            max-width: 60rem;
         }
     }
 }
